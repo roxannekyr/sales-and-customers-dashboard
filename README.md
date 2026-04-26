@@ -5,7 +5,7 @@
 
 > **Click below to open the fully interactive dashboard** — explore both the Sales and Customer views, filter by year, hover over charts, and drill into customer-level data.
 
-[![▶ Open Live Dashboard](https://img.shields.io/badge/▶%20Open%20Live%20Dashboard-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://YOUR_USERNAME.github.io/sales-dashboard-tableau/)
+[![▶ Open Live Dashboard](https://img.shields.io/badge/▶%20Open%20Live%20Dashboard-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://roxannekyr.github.io/sales-and-customers-dashboard/)
 
 > _Hosted via GitHub Pages · Powered by Tableau Public_
 
