@@ -78,7 +78,7 @@ Dynamic color coding built with `WINDOW_MAX()` / `WINDOW_AVG()` comparisons high
 
 | Component | Detail |
 |---|---|
-| **Tool** | Tableau Desktop + Tableau Public |
+| **Tool** | Tableau Public |
 | **Data Source** | Sales DataSource (Orders, Customers, Products) |
 | **Calc Techniques** | LOD Expressions · Table Calculations · Window Functions · Parameters |
 | **LOD Types** | `FIXED` (customer-level aggregations) |
