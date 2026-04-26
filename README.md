@@ -84,13 +84,3 @@ Dynamic color coding built with `WINDOW_MAX()` / `WINDOW_AVG()` comparisons high
 | **LOD Types** | `FIXED` (customer-level aggregations) |
 | **Table Calcs** | `WINDOW_AVG`, `WINDOW_MAX`, `INDEX` |
 | **Interactivity** | Year parameter · Dashboard filter actions · Dynamic color logic |
-
-
-## 🚀 Enabling GitHub Pages (one-time setup)
-
-1. Push both files (`index.html` + `README.md`) to your repo's **main** branch
-2. Go to **Settings → Pages**
-3. Set source to **Deploy from a branch → main → / (root)**
-4. After ~60 seconds, your live URL will be:
-   `https://YOUR_USERNAME.github.io/sales-dashboard-tableau/`
-5. Replace `YOUR_USERNAME` in this README with your actual GitHub username
