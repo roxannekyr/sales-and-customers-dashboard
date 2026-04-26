@@ -28,6 +28,14 @@ A dual-dashboard Tableau solution delivering **executive-level visibility** into
 
 ---
 
+## Dashboard Preview
+
+**Sales Dashboard**
+![Sales Dashboard](assets/sales-dashboard.png)
+
+**Customer Dashboard**
+![Customer Dashboard](assets/customer-dashboard.png)
+
 ## Key Features & Technical Highlights
 
 ### Dynamic KPI Cards (4 Metrics)
