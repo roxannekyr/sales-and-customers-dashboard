@@ -11,6 +11,16 @@
 
 ---
 
+## Dashboard Preview
+
+**Sales Dashboard**
+
+![Sales Dashboard](Sales%20Dashboard.png)
+
+**Customer Dashboard**
+
+![Customer Dashboard](Customer%20Dashboard.png)
+
 ## Project Overview
 
 A dual-dashboard Tableau solution delivering **executive-level visibility** into sales performance and customer behavior. Built for data-driven decision-making, the dashboards enable business leaders to instantly benchmark current-year results against the prior year across four core KPIs — all driven by a single dynamic year parameter.
@@ -27,14 +37,6 @@ A dual-dashboard Tableau solution delivering **executive-level visibility** into
 | **Customer Dashboard** | Customer distribution, top customers, orders per customer, customer KPIs |
 
 ---
-
-## Dashboard Preview
-
-**Sales Dashboard**
-![Sales Dashboard](assets/sales-dashboard.png)
-
-**Customer Dashboard**
-![Customer Dashboard](assets/customer-dashboard.png)
 
 ## Key Features & Technical Highlights
 
